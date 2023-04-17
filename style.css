@@ -1,0 +1,26 @@
+
+* {}
+.box1 {
+    color: rgb(77, 16, 2);
+}
+.box1:hover {
+   background-color: darkslategray; 
+}
+   .box1 {color:darkgreen;
+}
+.box2{
+    color:rgb(50, 100, 160);
+}
+.box2 p{
+    color:crimson;
+}
+.langue p:hover:before {
+    content:"here";
+    font-weight: bolder;
+    font-size: 50px;
+}
+.langue p:hover:after {
+    content:"there";
+    font-weight:lighter;
+    font-size: 10px;
+}
